@@ -16,3 +16,4 @@ I love hearing from my followers, so please reach out using the links below. You
 - Custom Trading Bot development - https://tradeoxy.notion.site/Trading-Bot-Pricing-Guide-f0ff11b0604b4b998cba2b8da6a129cb?pvs=4
 
 ## List of Episodes on Medium
+1. [Build Your Own AutoTrading MetaTrader 5 Expert Advsior](https://appnologyjames.medium.com/build-your-own-autotrading-metatrader-5-expert-advisor-45e17f96d1d0)
