@@ -1,21 +1,25 @@
 # Build Your Own MetaTrader 5 Expert Advisor
 Have you ever wanted to build your own trading bot on MetaTrader 5? Got an idea for an algorithm you would love to bring to life, but not sure where to start? 
 
-In this series, I show you everything you need to know to get started, from idea, to building, to backtesting, to optimizing.
+This repository contains a collection of MQL5 (MetaTrader 5) code snippets, algorithms, and unique ways of putting them together to turbocharge your development. 
 
-Follow along as I provide you with helpful insight, and working code samples at every step of the process. 
+Almost all my content is paired with helpful YouTube and Blog posts to make it super simple to follow along, and much of it is filtered through my company [TradeOxy](https://www.tradeoxy.com/).
+
+If you ever get stuck, then join our awesome [Discord](https://discord.gg/wNYYGaMGfd) community for some help. 
+
+Don't forget - the best is yet to come! 
 
 ## Join Our Community and Check out TradeOxy.com
 I love hearing from my followers, so please reach out using the links below. You can also check out the platform I'm building with my team and get some sneaky early discounts. 
 
-- Discord: https://discord.gg/wNYYGaMGfd
-- Telegram: https://t.me/TradeOxySupportBot
-- TradeOxy Platform: https://www.tradeoxy.com/
-- Upcoming Content: https://tradeoxy.notion.site/Content-Creation-Roadmap-5f896060f39341fd9539bcaced8c3b5d
-- Upcoming Features: https://tradeoxy.notion.site/3f9666718dc24e38bbd4a56a741287ae?v=d810cfa006f54bafa4bbbe3674fefa98&pvs=74
-- Custom Trading Bot development - https://tradeoxy.notion.site/Trading-Bot-Pricing-Guide-f0ff11b0604b4b998cba2b8da6a129cb?pvs=4
+- [Discord](https://discord.gg/wNYYGaMGfd)
+- [Telegram](https://t.me/TradeOxySupportBot)
+- [TradeOxy](https://www.tradeoxy.com/)
+- [Upcoming Content](https://tradeoxy.notion.site/Content-Creation-Roadmap-5f896060f39341fd9539bcaced8c3b5d)
+- [TradeOxy Features](https://tradeoxy.notion.site/3f9666718dc24e38bbd4a56a741287ae?v=d810cfa006f54bafa4bbbe3674fefa98&pvs=74)
+- [Custom Trading Bot development](https://tradeoxy.notion.site/Trading-Bot-Pricing-Guide-f0ff11b0604b4b998cba2b8da6a129cb?pvs=4)
 
-## List of Episodes on YouTube
+## Helpful Content on [YouTube](https://www.youtube.com/@tradeoxy)
 1. [Build Your Own Expert Advisor](https://youtu.be/QzGBGO968V8)
 2. [Integrate the RSI into Your MT5 EA with Ease!](https://youtu.be/1OXOzkj78pM)
 3. [Upgrading Your RSI Indicator to Be Super Advanced in MetaTrader 5](https://youtu.be/I3rnPu6I18A)
