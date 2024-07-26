@@ -20,10 +20,19 @@ I love hearing from my followers, so please reach out using the links below. You
 - [Custom Trading Bot development](https://tradeoxy.notion.site/Trading-Bot-Pricing-Guide-f0ff11b0604b4b998cba2b8da6a129cb?pvs=4)
 
 ## Helpful Content on [YouTube](https://www.youtube.com/@tradeoxy)
+### Indicators, Algorithms, and Strategies
 1. [Build Your Own Expert Advisor](https://youtu.be/QzGBGO968V8)
 2. [Integrate the RSI into Your MT5 EA with Ease!](https://youtu.be/1OXOzkj78pM)
 3. [Upgrading Your RSI Indicator to Be Super Advanced in MetaTrader 5](https://youtu.be/I3rnPu6I18A)
 4. [The Simplest RSI Algorithm for Your MT5 Expert Advisor](https://youtu.be/KrBgG1r2L5c)
+
+### AI Powered Dev Environment
+1. [Supercharge MT5 EA with GPT-4 and GitHub CoPilot](https://youtu.be/4GCwJAbrSVY)
+
+### Tips and Tricks
+1. [How to Enable AutoTrading on MetaTrader 5](https://youtu.be/AO2lF8KOPJs)
+2. [How to Add an EA to your MetaTrader 5 Chart](https://youtu.be/k8ZffZDfcBQ)
+3. [3 Simple Ways to Stop your EA from Autotrading on MT5](https://youtu.be/njS7nVkj9Xk)
 
 ## List of Episodes on Medium
 1. [Build Your Own AutoTrading MetaTrader 5 Expert Advsior](https://appnologyjames.medium.com/build-your-own-autotrading-metatrader-5-expert-advisor-45e17f96d1d0)
