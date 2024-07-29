@@ -48,7 +48,7 @@ string MACDSignalZeroCross(){
         // Print an error message
         Print("Invalid MACD Handle");
         // Return false
-        return(false);
+        return("NoCross");
     }
     // Copy the MACD buffer
     CopyBuffer(macdHandle, 1, 0, 3, macdBuffer);
