@@ -25,6 +25,7 @@ I love hearing from my followers, so please reach out using the links below. You
 2. [Integrate the RSI into Your MT5 EA with Ease!](https://youtu.be/1OXOzkj78pM)
 3. [Upgrading Your RSI Indicator to Be Super Advanced in MetaTrader 5](https://youtu.be/I3rnPu6I18A)
 4. [The Simplest RSI Algorithm for Your MT5 Expert Advisor](https://youtu.be/KrBgG1r2L5c)
+5. [Ultimate Guide to Automating Your EA's Trading on MetaTrader 5](https://youtu.be/rAPwg8RgqJQ?si=914m1AROTB_TgFBg)
 
 ### AI Powered Dev Environment
 1. [Supercharge MT5 EA with GPT-4 and GitHub CoPilot](https://youtu.be/4GCwJAbrSVY)
