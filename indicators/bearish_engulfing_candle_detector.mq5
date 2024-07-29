@@ -4,7 +4,7 @@
 
 
 // Input parameters
-input double candleSizeMultiplier = 1.5; // Bullish Engulfing Multiplier
+input double candleSizeMultiplier = 1.5; // Bearish Engulfing Multiplier
 
 //+------------------------------------------------------------------+
 //| Expert Initialization function                                   |
