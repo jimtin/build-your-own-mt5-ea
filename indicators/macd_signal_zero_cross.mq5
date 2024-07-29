@@ -41,14 +41,6 @@ string MACDSignalZeroCross(){
     double macdBuffer[];
     // Convert into an array
     ArraySetAsSeries(macdBuffer, true);
-    // Create a buffer for the Signal Line
-    double signalBuffer[];
-    // Convert into an array
-    ArraySetAsSeries(signalBuffer, true);
-    // Create a buffer for the Histogram
-    double histogramBuffer[];
-    // Convert into an array
-    ArraySetAsSeries(histogramBuffer, true);
     // Create a handle for the MACD
     int macdHandle = iMACD(_Symbol, _Period, fastEMA, slowEMA, signalSMA, PRICE_CLOSE);
     // Check that the handle is valid
