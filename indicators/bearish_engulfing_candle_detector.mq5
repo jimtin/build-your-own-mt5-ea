@@ -32,7 +32,7 @@ void OnDeinit(const int reason){
 
 
 //+------------------------------------------------------------------+
-//| Bullish Engulfing Candle                                         |
+//| Bearish Engulfing Candle                                         |
 //| Investopedia Link: https://www.investopedia.com/terms/b/bearishengulfingp.asp |
 //+------------------------------------------------------------------+
 bool BearishEngulfing(double lastOpen, double secondLastOpen, double lastClose, double secondLastClose){
