@@ -65,13 +65,13 @@ double BollingerBands(string band){
         return(0.00);
     }
     // Check that the Bollinger Bands buffer is not empty
-    if(bollingerBuffer[0] == EMPTY_VALUE){
+    if(bollingerBuffer[numCandles] == EMPTY_VALUE){
         // Print an error message
         Print("Empty Bollinger Bands Buffer");
         return(0.00);
     }
     // Return the Bollinger Bands value
-    return(bollingerBuffer[0]);
+    return(bollingerBuffer[numCandles]);
 }
 
 
