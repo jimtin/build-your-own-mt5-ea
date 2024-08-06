@@ -26,6 +26,10 @@ I love hearing from my followers, so please reach out using the links below. You
 3. [Upgrading Your RSI Indicator to Be Super Advanced in MetaTrader 5](https://youtu.be/I3rnPu6I18A)
 4. [The Simplest RSI Algorithm for Your MT5 Expert Advisor](https://youtu.be/KrBgG1r2L5c)
 5. [Ultimate Guide to Automating Your EA's Trading on MetaTrader 5](https://youtu.be/rAPwg8RgqJQ?si=914m1AROTB_TgFBg)
+6. [How to Backtest and Optimize Your Expert Advisor](https://youtu.be/AnhGOmGCxWY)
+7. [Ultimate Doji Star Detector for MetaTrader 5 EA's](https://youtu.be/yEs2DCHWizI)
+8. [Long-Legged Doji Star Detector](https://youtu.be/LUepwqMmPwY)
+9. [Gravestone Doji Star Detector](https://youtu.be/SU1hw-IM5Hk)
 
 ### AI Powered Dev Environment
 1. [Supercharge MT5 EA with GPT-4 and GitHub CoPilot](https://youtu.be/4GCwJAbrSVY)
@@ -53,6 +57,16 @@ I love hearing from my followers, so please reach out using the links below. You
 - [Envelopes Indicator MQL5](https://github.com/jimtin/build-your-own-mt5-ea/blob/main/indicators/envelopes_indicator.mq5)
 - [Exponential Moving Average (EMA) MQL5](https://github.com/jimtin/build-your-own-mt5-ea/blob/main/indicators/exponential_moving_average.mq5)
 - [Money Flow Index (MFI or Volume Weighted RSI)](https://github.com/jimtin/build-your-own-mt5-ea/blob/main/indicators/money_flow_index_indicator.mq5)
+- [Bearish Engulfing Candle Detector](https://github.com/jimtin/build-your-own-mt5-ea/blob/main/indicators/bearish_engulfing_candle_detector.mq5)
+- [Bearish Engulfing Candle with turnaround detection](https://github.com/jimtin/build-your-own-mt5-ea/blob/main/indicators/bearish_engulfing_candle_turaround_detector.mq5)
+- [Bullish Engulfing Candle Detector](https://github.com/jimtin/build-your-own-mt5-ea/blob/main/indicators/bullish_engulfing_candle_detector.mq5)
+- [Bullish Engulfing Candle with turnaround detection](https://github.com/jimtin/build-your-own-mt5-ea/blob/main/indicators/bullish_engulfing_turnaround_detector.mq5)
+- [Bollinger Bands](https://github.com/jimtin/build-your-own-mt5-ea/blob/main/indicators/bollinger_bands.mq5)
+- [Bollinger Bands distance calculator](https://github.com/jimtin/build-your-own-mt5-ea/blob/main/indicators/bollinger_bands_distance_calculator.mq5)
+- [Moving Average Convergence/Divergence Histogram(MACD Histogram)](https://github.com/jimtin/build-your-own-mt5-ea/blob/main/indicators/macd_histogram.mq5)
+- [Moving Average Convergence/Divergence Signal (MACD Signal)](https://github.com/jimtin/build-your-own-mt5-ea/blob/main/indicators/macd_signal.mq5)
+- [Moving Average Convergence/Divergence Histogram Zero Cross](https://github.com/jimtin/build-your-own-mt5-ea/blob/main/indicators/macd_histogram_zero_cross.mq5)
+- [Moving Average Convergence/Divergence Signal Zero Cross](https://github.com/jimtin/build-your-own-mt5-ea/blob/main/indicators/macd_signal_zero_cross.mq5)
 
 # Some Helpful Functions
 - [How to Detect a New Candle using MQL5](https://github.com/jimtin/build-your-own-mt5-ea/blob/main/helper_functions/next_candle.mq5)
