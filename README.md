@@ -40,12 +40,12 @@ I love hearing from my followers, so please reach out using the links below. You
 3. [3 Simple Ways to Stop your EA from Autotrading on MT5](https://youtu.be/njS7nVkj9Xk)
 
 ## List of Episodes on Medium
-1. [Build Your Own AutoTrading MetaTrader 5 Expert Advsior](https://appnologyjames.medium.com/build-your-own-autotrading-metatrader-5-expert-advisor-45e17f96d1d0)
-2. [The Easiest Way to Add the RSI Indicator to Your MetaTrader 5 EA](https://medium.com/@appnologyjames/the-easiest-way-to-add-the-rsi-indicator-to-your-metatrader-5-ea-da3dcb1f3fd3)
-3. [The Easiest RSI Algorithm for Your MetaTrader Expert Advisor](https://medium.com/@appnologyjames/the-easiest-rsi-algorithm-for-your-metatrader-expert-advisor-91de3ad7249c)
-4. [The Easiest Way to Place BUY and SELL Orders with your MetaTrader EA](https://medium.com/@appnologyjames/the-easiest-way-to-place-buy-and-sell-orders-with-your-metatrader-ea-86e3816001da)
-5. [The Simplest Way to Manage Your Expert Advisor Trades on MetaTrader](https://medium.com/@appnologyjames/the-simplest-way-to-manage-your-expert-advisor-trades-on-metatrader-70da9df9c6ca)
-6. [Four Simple Steps to Backtest and Optimize Your EA on MetaTrader 5](https://medium.com/@appnologyjames/four-simple-steps-to-backtest-and-optimize-your-ea-on-metatrader-5-3b6039b50cba)
+1. [Build Your Own AutoTrading MetaTrader 5 Expert Advsior](https://www.appnologyjames.com/build-your-own-autotrading-metatrader-5-expert-advisor/)
+2. [The Easiest Way to Add the RSI Indicator to Your MetaTrader 5 EA](https://www.appnologyjames.com/the-easiest-way-to-add-the-rsi-indicator-to-your-metatrader-5-ea/)
+3. [The Easiest RSI Algorithm for Your MetaTrader Expert Advisor](https://www.appnologyjames.com/the-easiest-rsi-algorithm-for-your-metatrader-expert-advisor/)
+4. [The Easiest Way to Place BUY and SELL Orders with your MetaTrader EA](https://www.appnologyjames.com/the-easiest-way-to-place-buy-and-sell-orders-with-your-metatrader-ea/)
+5. [The Simplest Way to Manage Your Expert Advisor Trades on MetaTrader](https://www.appnologyjames.com/the-simplest-way-to-manage-your-expert-advisor-trades-on-metatrader/)
+6. [Four Simple Steps to Backtest and Optimize Your EA on MetaTrader 5](https://www.appnologyjames.com/four-simple-steps-to-backtest-and-optimize-your-ea-on-metatrader-5/)
 
 ## List of Indicators Covered
 - [Doji Super Detector (all Doji's Combined!)](https://github.com/jimtin/build-your-own-mt5-ea/blob/main/indicators/doji_super_detector.mq5)
