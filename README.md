@@ -30,6 +30,9 @@ I love hearing from my followers, so please reach out using the links below. You
 7. [Ultimate Doji Star Detector for MetaTrader 5 EA's](https://youtu.be/yEs2DCHWizI)
 8. [Long-Legged Doji Star Detector](https://youtu.be/LUepwqMmPwY)
 9. [Gravestone Doji Star Detector](https://youtu.be/SU1hw-IM5Hk)
+10. [Dragonfly Doji Detector](https://youtu.be/8_hDbwHsrtM)
+11. [Omni Doji Detector](https://youtu.be/zDKawRmweKk)
+12. [Auto Trade Monitoring](https://youtu.be/fUNIMBcNZJ0)
 
 ### AI Powered Dev Environment
 1. [Supercharge MT5 EA with GPT-4 and GitHub CoPilot](https://youtu.be/4GCwJAbrSVY)
