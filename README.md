@@ -33,6 +33,11 @@ I love hearing from my followers, so please reach out using the links below. You
 10. [Dragonfly Doji Detector](https://youtu.be/8_hDbwHsrtM)
 11. [Omni Doji Detector](https://youtu.be/zDKawRmweKk)
 12. [Auto Trade Monitoring](https://youtu.be/fUNIMBcNZJ0)
+13. [How to add the Exponential Moving Average (EMA) indicator to Your MetaTrader 5 Expert Advisor](https://youtu.be/XyMOPMWm0WE)
+14. [How to add the Envelopes Indicator to Your MetaTrader 5 Expert Advisor](https://youtu.be/H8FVk7Fu4CQ)
+15. [How to detect New Candles in Your MetaTrader 5 Expert Advisor](https://youtu.be/UaWb0zmffqs)
+16. [How to add the Money Flow Index to Your MetaTrader 5 Expert Advisor](https://youtu.be/k6UVUD2BIyY)
+17. [How to detect the Bullish Engulfing Candle in Your MetaTrader 5 Expert Advisor](https://youtu.be/6twr_aAs-TY)
 
 ### AI Powered Dev Environment
 1. [Supercharge MT5 EA with GPT-4 and GitHub CoPilot](https://youtu.be/4GCwJAbrSVY)
