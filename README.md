@@ -43,7 +43,7 @@ I love hearing from my followers, so please reach out using the links below. You
 2. [How to Add an EA to your MetaTrader 5 Chart](https://youtu.be/k8ZffZDfcBQ)
 3. [3 Simple Ways to Stop your EA from Autotrading on MT5](https://youtu.be/njS7nVkj9Xk)
 
-## List of Episodes on Medium
+## List of Episodes on My Blog
 1. [Build Your Own AutoTrading MetaTrader 5 Expert Advsior](https://www.thedisruptioncontinuum.channel/build-your-own-autotrading-metatrader-5-expert-advisor/)
 2. [The Easiest Way to Add the RSI Indicator to Your MetaTrader 5 EA](https://www.thedisruptioncontinuum.channel/the-easiest-way-to-add-the-rsi-indicator-to-your-metatrader-5-ea/)
 3. [The Easiest RSI Algorithm for Your MetaTrader Expert Advisor](https://www.thedisruptioncontinuum.channelthe-easiest-rsi-algorithm-for-your-metatrader-expert-advisor/)
