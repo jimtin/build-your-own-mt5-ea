@@ -14,10 +14,6 @@ I love hearing from my followers, so please reach out using the links below. You
 
 - [Discord](https://discord.gg/wNYYGaMGfd)
 - [Telegram](https://t.me/TradeOxySupportBot)
-- [TradeOxy](https://www.tradeoxy.com/)
-- [Upcoming Content](https://tradeoxy.notion.site/Content-Creation-Roadmap-5f896060f39341fd9539bcaced8c3b5d)
-- [TradeOxy Features](https://tradeoxy.notion.site/3f9666718dc24e38bbd4a56a741287ae?v=d810cfa006f54bafa4bbbe3674fefa98&pvs=74)
-- [Custom Trading Bot development](https://tradeoxy.notion.site/Trading-Bot-Pricing-Guide-f0ff11b0604b4b998cba2b8da6a129cb?pvs=4)
 
 ## Helpful Content on [YouTube](https://www.youtube.com/@tradeoxy)
 ### Indicators, Algorithms, and Strategies
@@ -48,12 +44,12 @@ I love hearing from my followers, so please reach out using the links below. You
 3. [3 Simple Ways to Stop your EA from Autotrading on MT5](https://youtu.be/njS7nVkj9Xk)
 
 ## List of Episodes on Medium
-1. [Build Your Own AutoTrading MetaTrader 5 Expert Advsior](https://www.appnologyjames.com/build-your-own-autotrading-metatrader-5-expert-advisor/)
-2. [The Easiest Way to Add the RSI Indicator to Your MetaTrader 5 EA](https://www.appnologyjames.com/the-easiest-way-to-add-the-rsi-indicator-to-your-metatrader-5-ea/)
-3. [The Easiest RSI Algorithm for Your MetaTrader Expert Advisor](https://www.appnologyjames.com/the-easiest-rsi-algorithm-for-your-metatrader-expert-advisor/)
-4. [The Easiest Way to Place BUY and SELL Orders with your MetaTrader EA](https://www.appnologyjames.com/the-easiest-way-to-place-buy-and-sell-orders-with-your-metatrader-ea/)
-5. [The Simplest Way to Manage Your Expert Advisor Trades on MetaTrader](https://www.appnologyjames.com/the-simplest-way-to-manage-your-expert-advisor-trades-on-metatrader/)
-6. [Four Simple Steps to Backtest and Optimize Your EA on MetaTrader 5](https://www.appnologyjames.com/four-simple-steps-to-backtest-and-optimize-your-ea-on-metatrader-5/)
+1. [Build Your Own AutoTrading MetaTrader 5 Expert Advsior](https://www.thedisruptioncontinuum.channel/build-your-own-autotrading-metatrader-5-expert-advisor/)
+2. [The Easiest Way to Add the RSI Indicator to Your MetaTrader 5 EA](https://www.thedisruptioncontinuum.channel/the-easiest-way-to-add-the-rsi-indicator-to-your-metatrader-5-ea/)
+3. [The Easiest RSI Algorithm for Your MetaTrader Expert Advisor](https://www.thedisruptioncontinuum.channelthe-easiest-rsi-algorithm-for-your-metatrader-expert-advisor/)
+4. [The Easiest Way to Place BUY and SELL Orders with your MetaTrader EA](https://www.thedisruptioncontinuum.channel/the-easiest-way-to-place-buy-and-sell-orders-with-your-metatrader-ea/)
+5. [The Simplest Way to Manage Your Expert Advisor Trades on MetaTrader](https://www.thedisruptioncontinuum.channel/the-simplest-way-to-manage-your-expert-advisor-trades-on-metatrader/)
+6. [Four Simple Steps to Backtest and Optimize Your EA on MetaTrader 5](https://www.thedisruptioncontinuum.channel/four-simple-steps-to-backtest-and-optimize-your-ea-on-metatrader-5/)
 
 ## List of Indicators Covered
 - [Doji Super Detector (all Doji's Combined!)](https://github.com/jimtin/build-your-own-mt5-ea/blob/main/indicators/doji_super_detector.mq5)
